@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛し合うとして",
+  "base_artist": "SATOH",
+  "createdAt": "2026-02-15T15:46:40.246851Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛し合うとして",
+      "artist": "SATOH",
+      "has_synced": false,
+      "path": "select/pl_01_愛し合うとして_SATOH.txt"
+    }
+  ]
+}
